@@ -4,6 +4,7 @@ import { StockDetailPage } from "./pages/StockDetailPage"
 import './App.css'
 import { WatchListContextProvider } from "./context/WatchListContext"
 
+
 export default function App() {
   return (
     <main className='container'>
